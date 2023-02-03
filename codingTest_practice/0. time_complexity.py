@@ -20,5 +20,4 @@ cnt = 1
 for i in range(N):
     for j in range(N):
         print("연산횟수 ", str(cnt))
-        cnt += 1
-# 커밋 확인용
+        cnt += 1\
